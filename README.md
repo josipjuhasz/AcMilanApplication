@@ -83,7 +83,7 @@ Klikom na "Players stats" prikazuje se igračeva statistika na svim natjecanjim 
 
 
 
-Prikaz favorite igrača.
+Prikaz "favorite" igrača.
 
 <p align="center">
   <img width="200" src="https://i.imgur.com/i49vXaA.png">
